@@ -1,0 +1,11 @@
+.class {
+    height: 1em;
+    padding: 0.8em 1.5em;
+    margin: 0.5em;
+    border-radius: 5px;
+    background-color: #fdebec;
+    color: #ed6f6f;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
