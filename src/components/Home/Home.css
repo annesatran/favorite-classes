@@ -6,11 +6,9 @@
 }
 
 .my-classes {
+    width: 850px;
     display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-items: center;
-    width: 65vw;
+    flex-flow: column wrap;   
 }
 
 input, button {
